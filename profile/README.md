@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We are developers from the Planetside community who help others build extraordinary services and get them right into the game via UI mods.
+We are Planetside players who help the community build better tools for the game.
 
 <br>
 
