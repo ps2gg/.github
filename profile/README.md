@@ -6,18 +6,13 @@ We are Planetside players who help the community build better tools for the game
 
 ## Enabling a better ecosystem
 
-Our mission is to provide the Planetside ecosystem with data you won't find on the Census API, and to help developers integrate their services seamlessly into the game via UI mods.
+Our mission is to provide the Planetside developer ecosystem with unique data and approaches to bring their tools to every player.
 
-### What we're providing to the community:
-- **A UI modding platform**<br> that lets you integrate your service as if it had always been part of the game
-- **A player verification service**<br> to link ingame characters to your user system
-- **Account-wide character detection**<br> to help you generate your data across all of a player's characters
-- **Per-fight metrics**<br> that give context to every interaction in the game
-  
-And many, many smaller services you can find in the [official ps2.gg repo](https://github.com/ps2gg/ps2.gg).
+### UI mods
+To fundamentally improve how the game is played, we are building a UI modding platform, which allows developers to integrate their tools right into the game's UI. Think fisu, ps2alerts or honu, as if it had always been part of the game itself. We accomplish this by detecting the game's UI state and allow devs to automatically draw their own Web UI over detected elements.
 
 <br>
 
 ## Talk with us
 
-Wanna share your ideas or talk with other service creators? Feel free to join us on the [Planetside Developer Discord](https://discord.gg/6MCtSFuhvg)! 😊
+Want to build your own Mods? Feel free to join us on the [Planetside Developer Discord](https://discord.gg/6MCtSFuhvg)! 😊
